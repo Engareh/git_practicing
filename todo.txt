@@ -1,1 +1,1 @@
-I forgot to add this file to the last commit.
+We forgot to add this file to the last commit.
