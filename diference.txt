@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-This is False.
-I am right.
-
